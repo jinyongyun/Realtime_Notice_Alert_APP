@@ -282,7 +282,12 @@ extension ViewController {
 기본값이 아닌 서버에 만들어준 기본값이 나오는 것을 알 수 있다!!
 
 
-https://github.com/jinyongyun/Realtime_Notice_Alert_APP/assets/102133961/f4e00344-586f-438a-91fa-2b5fc03abedc
+
+https://github.com/jinyongyun/Realtime_Notice_Alert_APP/assets/102133961/9244199c-665a-496d-993d-8b1b913e5a72
+
+
+
+
 Firebase 콘솔에서 매개변수 수정을 누르고, 새로 추가 → 조건부 값 → 새 조건 만들기를 누르고
 
 새로운 조건을 지정하여 해당 매개변수가 다르게 나타나게 할 수 있다.
